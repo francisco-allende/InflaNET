@@ -1,0 +1,11 @@
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\bin\Debug\netcoreapp2.2\InflaNET.deps.json
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\bin\Debug\netcoreapp2.2\InflaNET.runtimeconfig.json
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\bin\Debug\netcoreapp2.2\InflaNET.runtimeconfig.dev.json
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\bin\Debug\netcoreapp2.2\InflaNET.dll
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\bin\Debug\netcoreapp2.2\InflaNET.pdb
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\obj\Debug\netcoreapp2.2\InflaNET.csproj.AssemblyReference.cache
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\obj\Debug\netcoreapp2.2\InflaNET.csproj.CoreCompileInputs.cache
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\obj\Debug\netcoreapp2.2\InflaNET.AssemblyInfoInputs.cache
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\obj\Debug\netcoreapp2.2\InflaNET.AssemblyInfo.cs
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\obj\Debug\netcoreapp2.2\InflaNET.dll
+C:\Users\fallende\Desktop\Calculo inflacion acumulada\InflaMaster\InflaMaster\obj\Debug\netcoreapp2.2\InflaNET.pdb
